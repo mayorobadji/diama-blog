@@ -1,0 +1,10 @@
+baseURL = 'https://mayorobadji.github.io/diama-blog/'
+languageCode = 'en-us'
+title = 'Diama Blog'
+theme = 'PaperMod'
+relativeURLs = true
+canonifyURLs = true
+
+[params]
+author = "Mayoro Badji"
+description = "Technical Blog with Hugo and GitHub Pages"
